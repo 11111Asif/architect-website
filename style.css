@@ -30,7 +30,7 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-.nav-title{
+.section-title{
     font-size: 2.8rem;
     color: #131313;
     font-weight: 700;
@@ -71,6 +71,8 @@ nav li a{
 main{
    max-width: 1440px;
    margin: 70px auto;
+  
+
 }
 
 /* teams style */
